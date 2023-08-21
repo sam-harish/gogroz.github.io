@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "Vegetable",
+      "subcategory": [
+        "Vegetable",
+        "Fruits",
+        "Greens"
+      ]
+    },
+
+    {
+      "name":"Grocery",
+      "subcategory": [
+        "Oil",
+        "Dall",
+        "Spice Powder"
+      ]
+    },
+
+    {
+      "name":"Rice & Wheat",
+      "subcategory": [
+        "Rice",
+        "Wheat",
+        "Millets"
+      ]
+    },
+    {
+      "name":"Snacks",
+      "subcategory": [
+        "Sweets",
+        "Spicy",
+        "Cake"
+      ]
+    },
+    {
+      "name":"Tender Coconut",
+      "subcategory": [
+        "Red",
+        "Green",
+        "Normal"
+      ]
+    },
+    {
+      "name":"Soap",
+      "subcategory": [
+        "Bathing",
+        "Washing",
+        "Powder"
+      ]
+    },
+    {
+      "name":"Toothpaste",
+      "subcategory": [
+        "Paste",
+        "Brush",
+        "Mouthwash"
+      ]
+    },
+    {
+      "name":"Stationery items",
+      "subcategory": [
+        "Box",
+        "Pen & Pencil",
+        "Others"
+      ]
+    },
+    {
+      "name":"Off Upto 30%",
+      "subcategory": [
+        "Cool Drinks",
+        "Off 30%",
+        "Others"
+      ]
+    }
+  ]
+}
